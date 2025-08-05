@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Yuanyuan2003">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20A9F9&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+a+new+farmer+in+Code+World!;Welcome+to+my+Digital+Farmland!+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Yuanyuan2003&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="profile views" />
   </p>
 </div>
 
