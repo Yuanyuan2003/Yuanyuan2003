@@ -53,20 +53,6 @@
 
 ---
 
-### ✨ 我的GitHub“成绩单”
-
-下面是我的 GitHub 活动统计，由 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 自动生成。
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📫 如何找到我 (Connect with Me)
 
 - **Email**: 📫 [2942204237@qq.com](mailto:2942204237@qq.com) 
